@@ -19,7 +19,7 @@ boolean|isExist(String username)
 ###### public static boolean **createAccount**(String username, String password)
       用以在数据库表application.db中创建该账号和密码<br>
       username-用户名<br>
-password-对应的密码<br>
+      password-对应的密码<br>
 ###### public static boolean **isValid**(String username, String password)
       判断用户是否合法<br>
       username-获取的用户名<br>
